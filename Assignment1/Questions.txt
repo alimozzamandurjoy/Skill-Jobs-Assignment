@@ -10,7 +10,8 @@ Sample String : 'as'				a=lst.index('not')
 Expected Result : 'asas'			b=lst.index('poor')
 						
 Sample String : ' a'
-Expected Result : Empty String
+Expected Result : Empty String    
+
 
 2. Write a Python program to find the first appearance of the substring 'not' and 'poor' from a given string, 
 if 'not' follows the 'poor', replace the whole 'not'...'poor' substring with 'good'. Return the resulting string. Go to the editor
